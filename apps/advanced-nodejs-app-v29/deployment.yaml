@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: app
-          image: hoangphuc842/advanced-nodejs-app-v29:@sha256:5d296b1d1bf7e30c67cc7dcd53d5f9438afa4e770a6d0594562c0ab97f75f453
+          image: hoangphuc842/advanced-nodejs-app-v29:@sha256:3864ab3340c1b5c0730dfccb21118c5ffac604eaa17cf7c613fe5cda31bb58f0
           ports:
             - containerPort: 8080
